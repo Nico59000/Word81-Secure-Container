@@ -13,7 +13,7 @@
 //   • word81_s63_secure_container.hpp : Word81/S63 container and balanced trits
 //   • rs_facade_gf27.hpp              : gf27::pack3/unpack3 and RSPlan/engine
 // ----------------------------------------------------------------------------
-// Author : Nicolas B
+// Author : Nicolas Bègue
 // License: Mit
 // Version: 1.1
 // ============================================================================
